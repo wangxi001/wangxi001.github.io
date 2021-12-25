@@ -13,8 +13,8 @@ W Xi, MA Beer<br />
 **Local epigenomic state cannot discriminate interacting and non-interacting enhancer–promoter pairs with high accuracy**<br />
 W Xi, MA Beer<br />
 *PLoS computational biology* | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006625&type=printable) | [journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006625)
-<br />
-<br />
+<br /><br />
+
 ## Metagenomics
 ---
 **Using QC-Blind for quality control and contamination screening of bacteria DNA sequencing data without reference genome**<br />
