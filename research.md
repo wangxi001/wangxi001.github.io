@@ -14,7 +14,7 @@ W Xi, MA Beer<br />
 W Xi, MA Beer<br />
 *PLoS computational biology* | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006625&type=printable) | [journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006625)
 <br />
-
+<br />
 ## Metagenomics
 ---
 **Using QC-Blind for quality control and contamination screening of bacteria DNA sequencing data without reference genome**<br />
