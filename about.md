@@ -12,6 +12,6 @@ I got my B.Sc. from Huazhong University of Science and Technology with honors in
 
 ### More information
 
-[CV](CV.pdf) | [Email](mailto:wxi1@jhu.edu)
+[CV](CV.pdf) &#124 [Email](mailto:wxi1@jhu.edu)
 
 Young Investigator Day's 2021 [News1](https://www.hopkinsmedicine.org/som/kudos/young-investigators-day-2021/bios.html#xi) [News2](https://www.bme.jhu.edu/news-events/news/three-from-hopkins-bme-recognized-at-young-investigators-day/)
