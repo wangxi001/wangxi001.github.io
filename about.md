@@ -9,7 +9,7 @@ I'm a 5<sup>th</sup> year PhD student at Johns Hopkins University, working with 
 I got my B.Sc. from Huazhong University of Science and Technology with honors in Biotechnology.
 
 [CV1]({{ site.baseurl }}/cv.pdf)
-[CV2](cv.pdf)
+[CV2](./cv.pdf)
 
 ### Contact me
 
