@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## Higher-order Chromatin Architecture
-
+---
 **Loop competition and extrusion model predicts CTCF interaction specificity**<br />
 W Xi, MA Beer<br />
 *Nature Communications* | [PDF](https://www.nature.com/articles/s41467-021-21368-0.pdf) | [journal](https://www.nature.com/articles/s41467-021-21368-0)
