@@ -1,10 +1,12 @@
 ---
 layout: post
-title: You're up and running!
+title: Podcasts I follow
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+A list of podcasts I listen constantly. Themes include science, research and healthcare.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+#![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+[Night Science](https://podcasts.apple.com/us/podcast/night-science/id1563415749) by Itai Yanai & Martin Lercher
+
+[The Bioinformatics Chat](https://bioinformatics.chat/) by Roman Cheplyaka & Jacob Schreiber
