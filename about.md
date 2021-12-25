@@ -10,4 +10,4 @@ I got my B.Sc. from Huazhong University of Science and Technology with honors in
 
 ### Contact me
 
-[My Email](mailto:wxi1@jhu.edu)
+[My email](mailto:wxi1@jhu.edu)
