@@ -8,9 +8,9 @@ I'm a 5<sup>th</sup> year PhD student at Johns Hopkins University, working with 
 
 I got my B.Sc. from Huazhong University of Science and Technology with honors in Biotechnology.
 
-after change
-[CV1](![_config.yml]{{ site.baseurl }}/cv.pdf)
-[CV2](./cv.pdf)
+new
+[CV1](https://github.com/wangxi001/wangxi001.github.io/blob/master/CV.pdf)
+[CV2](CV.pdf)
 
 ### Contact me
 
