@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Higher-order Chromatin Architecture
+## Higher-order Chromatin Architecture
 
 **Loop competition and extrusion model predicts CTCF interaction specificity**<br />
 W Xi, MA Beer<br />
