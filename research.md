@@ -4,14 +4,12 @@ title: Research
 permalink: /research/
 ---
 
-I'm a 5<sup>th</sup> year PhD student at Johns Hopkins University, working with [Mike Beer](https://beerlab.org/index.php?title=Computational_Regulatory_Genomics). My main research interest is in Computational Regulatory Genomics.
+### Higher-order Chromatin Architecture
 
-I got my B.Sc. from Huazhong University of Science and Technology with honors in Biotechnology.
+*Loop competition and extrusion model predicts CTCF interaction specificity*
+W Xi, MA Beer
+Nature Communications | [PDF](https://www.nature.com/articles/s41467-021-21368-0.pdf) | [journal](https://www.nature.com/articles/s41467-021-21368-0)
 
-
-
-### More information
-
-[CV](CV.pdf)
-
-[Email](mailto:wxi1@jhu.edu)
+Local epigenomic state cannot discriminate interacting and non-interacting enhancer–promoter pairs with high accuracy
+W Xi, MA Beer
+PLoS computational biology | [PDF](https://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1006625&type=printable) | [journal](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006625)
