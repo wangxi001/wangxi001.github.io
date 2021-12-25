@@ -8,6 +8,8 @@ I'm a 5<sup>th</sup> year PhD student at Johns Hopkins University, working with 
 
 I got my B.Sc. from Huazhong University of Science and Technology with honors in Biotechnology.
 
+[CV]()
+
 ### Contact me
 
 [My email](mailto:wxi1@jhu.edu)
