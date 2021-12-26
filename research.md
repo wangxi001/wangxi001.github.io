@@ -7,10 +7,8 @@ permalink: /research/
 ## Higher-order Chromatin Architecture
 ---
 Loop competition and extrusion model predicts CTCF interaction specificity<br />
-<font size=2.5>W Xi, MA Beer</font><br />
-<font size=2>W Xi, MA Beer</font><br />
 <font size=3>W Xi, MA Beer</font><br />
-*Nature Communications* | [PDF](https://www.nature.com/articles/s41467-021-21368-0.pdf) | [journal](https://www.nature.com/articles/s41467-021-21368-0)
+<font size=3>*Nature Communications* | [PDF](https://www.nature.com/articles/s41467-021-21368-0.pdf) | [journal](https://www.nature.com/articles/s41467-021-21368-0)<font size=3>
 
 **Local epigenomic state cannot discriminate interacting and non-interacting enhancer–promoter pairs with high accuracy**<br />
 W Xi, MA Beer<br />
