@@ -8,7 +8,7 @@ permalink: /research/
 ---
 Loop competition and extrusion model predicts CTCF interaction specificity<br />
 <font color=#808080 >W Xi, MA Beer</font><br />
-<font size=5 >黄色</font>
+<font size=5 >5号字</font>
 *Nature Communications* | [PDF](https://www.nature.com/articles/s41467-021-21368-0.pdf) | [journal](https://www.nature.com/articles/s41467-021-21368-0)
 
 **Local epigenomic state cannot discriminate interacting and non-interacting enhancer–promoter pairs with high accuracy**<br />
