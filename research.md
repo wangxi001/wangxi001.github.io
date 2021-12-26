@@ -26,5 +26,5 @@ W Xi, Y Gao, Z Cheng, C Chen, M Han, P Yang, G Xiong, K Ning<br />
 ---
 **A Living Eukaryotic Autocementation Kit from Surface Display of Silica Binding Peptides on Yarrowia lipolytica**<br />
 S Tang*, W Xi*, Z Cheng*, ..., K Ning & Y Zhan<br />
-*ACS synthetic biology* | [PDF]() | [journal](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NaGmUZ4AAAAJ&alert_preview_top_rm=2&citation_for_view=NaGmUZ4AAAAJ:u5HHmVD_uO8C)
+ACS synthetic biology* | [PDF]() | [journal](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=NaGmUZ4AAAAJ&alert_preview_top_rm=2&citation_for_view=NaGmUZ4AAAAJ:u5HHmVD_uO8C)
 <br /><br />
