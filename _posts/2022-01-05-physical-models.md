@@ -13,4 +13,4 @@ We have a problem -> and some experimental data -> We make some assumptions abou
   
 #### Deep learning text book:
 
-We have a problem -> We have some data, labeled 0/1 -> Neural network is ready to go -> ... -> Boom! We trained a model!  
+We have a problem -> We have some data, labeled as 0/1 -> Neural network is ready to go -> ... -> Boom! We trained a model!  
