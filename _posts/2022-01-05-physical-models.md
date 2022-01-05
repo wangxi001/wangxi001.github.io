@@ -1,9 +1,9 @@
 ---
 layout: post
-title: <<Physical Models of Living Systems>> by Philip Nelson
+title: \<\<Physical Models of Living Systems\>\> by Philip Nelson
 ---
 
-A brief text and graphical summary of the book, which introduces various classical mathematical models of biological systems.
+A brief text and graphical summary of the book, which introduces various classical mathematical models of biological systems. This is a great book if you have already been exposed to biology, statistics and modeling.
   
 Before I get started, this is how I feel about probabilistic modeling vs deep learning.
   
