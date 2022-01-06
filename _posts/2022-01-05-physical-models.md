@@ -3,9 +3,9 @@ layout: post
 title: << Physical Models of Living Systems >> by Philip Nelson
 ---
 
-A brief textual and graphical summary of the book, which introduces various classical mathematical models of biological systems. 
+This book introduces various classical mathematical models of biological systems. 
 
-This is a great book if you have already been exposed to biology, statistics and modeling.
+It is a great book if you have already been exposed to biology, statistics and modeling.
 
 My favoriate part of is about its visulization of real data. Sometimes having those figure in memory can be quiet helpful when you see it again in one's own research.
 
