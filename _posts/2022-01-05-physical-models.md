@@ -8,7 +8,11 @@ A brief textual and graphical summary of the book, which introduces various clas
 This is a great book if you have already been exposed to biology, statistics and modeling.
 
 My favoriate part of is about its visulization of real data. Sometimes having those figure in memory can be quiet helpful when you see it again in one's own research.
-  
+
+<img src="/Physical-Models/Fig.0.3.png" alt="drawing" width="200"/>
+
+
+
 Before I get started, here's how I feel about probabilistic modeling vs deep learning.
   
 ### Probabilistic modeling text books:
