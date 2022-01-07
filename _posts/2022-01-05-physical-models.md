@@ -13,9 +13,11 @@ My favoriate part of is about its visulization of real data. Sometimes having th
 
 The goal is to test if HIV is under fast reproduction and mutation in human body, in contrast to what 'dormant period' would imply.
 
-When antiretroval drugs are used on patients, the balance of HIV production and clearance in their body will be disrupted, as virus concentration drops rapidly and exponentially on a semilog plot. However, rapid fall doesn't start at the moment the drug is administered. The reasoning behind is that although drugs block HIV from infecting new T cells, the cells already infected can still release virus.
-
 <img src="/Physical-Models/Fig.0.3.png" alt="drawing" width="500"/>
+
+When antiretroval drugs are used on patients, the balance of HIV production and clearance in their body will be disrupted, as virus concentration drops rapidly and exponentially on a semilog plot. However, this rapid fall doesn't start at the moment the drug is administered. The reasoning behind is that although drugs block HIV from infecting new T cells, the cells already infected can still release virus.
+
+
 
 
 
