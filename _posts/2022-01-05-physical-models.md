@@ -11,6 +11,10 @@ My favoriate part of is about its visulization of real data. Sometimes having th
 
 1. Virual clearance after anti-HIV drug treatment
 
+The goal is to test if HIV is under fast reproduction and mutation in human body, in contrast to what 'dormant period' would imply.
+
+The balance of HIV production and clearance is disrupted by antiretroval drugs, as virus concentration drops rapidly and exponentially on a semilog plot. However, rapid fall doesn't start at the moment the drug is administered. The reasoning behind is that although drugs block HIV from infecting new T cells, the cells already infected can still release virus.
+
 <img src="/Physical-Models/Fig.0.3.png" alt="drawing" width="500"/>
 
 
