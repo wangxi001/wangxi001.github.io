@@ -9,6 +9,8 @@ It is a great book if you have already been exposed to biology, statistics and m
 
 My favoriate part of is about its visulization of real data. Sometimes having those figure in memory can be quiet helpful when you see it again in one's own research.
 
+1. Virual clearance after anti-HIV drug treatment
+
 <img src="/Physical-Models/Fig.0.3.png" alt="drawing" width="500"/>
 
 
