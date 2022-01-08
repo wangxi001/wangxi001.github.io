@@ -9,7 +9,7 @@ It is a great book if you have already been exposed to biology, statistics and m
 
 My favoriate part of is about its visulization of real data. Sometimes having those figure in memory can be quiet helpful when you see it again in one's own research.
 
-1. Virual clearance after anti-HIV drug treatment
+## 1. Virual clearance after anti-HIV drug treatment
 
 The goal is to test if HIV is under fast reproduction and evolution in human body. AIDS patients typically experience a long latency period with low viral load that can take up to 10 years, before symptoms appear.
 
