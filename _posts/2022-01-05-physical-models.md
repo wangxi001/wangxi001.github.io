@@ -41,6 +41,9 @@ In the other case *k*<sub markdown="1">V</sub> >> *k*<sub markdown="1">I</sub>, 
 
 
 
+/
+/
+/
 
 PS: Here's how I feel about probabilistic modeling vs deep learning.
   
