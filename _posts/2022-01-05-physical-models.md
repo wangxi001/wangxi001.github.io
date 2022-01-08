@@ -29,7 +29,7 @@ as well as change of virus concentration:
 
 <img src="/Physical-Models/Eq.1.2.png" alt="drawing" width="170"/>
 
-Replacing *NV*
+Replacing *N<sub>I</sub>*
 
 
 Before I get started, here's how I feel about probabilistic modeling vs deep learning.
