@@ -3,6 +3,8 @@ layout: post
 title: << Physical Models of Living Systems >> by Philip Nelson
 ---
 
+<div markdown="1">
+
 This book introduces various classical mathematical models of biological systems. 
 
 It is a great book if you have already been exposed to biology, statistics and modeling.
@@ -33,12 +35,12 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 <img src="/Physical-Models/Eq.1.3.png" alt="drawing" width="200"/>
 
-It shows that the virus concentration is determined by two exponential terms and their parameters {*k*<sub>I</sub>}, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the one with smaller parameter. 
+It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub>I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the one with smaller parameter. 
 
 
 
 
-Before I get started, here's how I feel about probabilistic modeling vs deep learning.
+PS: Here's how I feel about probabilistic modeling vs deep learning.
   
 ### Probabilistic modeling text books:
   
@@ -47,3 +49,5 @@ We have a problem -> and some experimental data -> We make some assumptions abou
 ### Deep learning text books:
 
 We have a problem -> We have some data, labeled as 0/1 -> Neural network is ready to go -> ... -> Boom! We trained a model!  
+
+</div>
