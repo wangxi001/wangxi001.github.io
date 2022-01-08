@@ -35,7 +35,7 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 <img src="/Physical-Models/Eq.1.3.png" alt="drawing" width="200"/>
 
-It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub>I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the one with smaller parameter. 
+It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub markdown="1">I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the one with smaller parameter. 
 
 
 
