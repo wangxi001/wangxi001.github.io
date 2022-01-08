@@ -23,11 +23,11 @@ However, this rapid fall doesn't start at the moment the drug is administered. T
 
 We could draw equations for change of infected cell quantity:
 
-<img src="/Physical-Models/Eq.1.1.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Eq.1.1.png" alt="drawing" width="190"/>
 
 as well as change of virus concentration:
 
-<img src="/Physical-Models/Eq.1.2.png" alt="drawing" width="170"/>
+<img src="/Physical-Models/Eq.1.2.png" alt="drawing" width="160"/>
 
 Replacing *N*<sub>I</sub> in the second equation give us: 
 
