@@ -33,7 +33,7 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 <img src="/Physical-Models/Eq.1.3.png" alt="drawing" width="200"/>
 
-
+It shows that the virus concentration is determined by two exponential terms, and their contribution depends on *k*<sub>I</sub> and *k*<sub>V</sub>
 
 
 
