@@ -35,10 +35,11 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub markdown="1">I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the one with smaller parameter. 
 
-In the case *k*<sub markdown="1">I</sub> >> *k*<sub markdown="1">V</sub>, releasing of new virus from infected T cells quickly shuts off, and residual virus drop exponentially depends at rate *k*<sub markdown="1">V</sub>. 
+In the case *k*<sub markdown="1">I</sub> >> *k*<sub markdown="1">V</sub>, releasing of new virus from infected T cells quickly shuts off. Residual virus drop exponentially depends at rate *k*<sub markdown="1">V</sub>. 
 
 In the other case *k*<sub markdown="1">V</sub> >> *k*<sub markdown="1">I</sub>, exisiting virus are quickly cleared. Later the clearance rate is only controlled by *k*<sub markdown="1">I</sub>.
 
+By fitting data to the model, we can show 1/*k*<sub markdown="1">I</sub> is much smaller than 10 years. We can further show that the infection rate of virus is so fast that make is possible for the population of virus to carry every possible single nucleotide mutation at the same time. It explains why HIV can be resistant to any single drug, and motivate the treatment of drug combinations.
 
 
 /
