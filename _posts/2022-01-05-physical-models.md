@@ -11,11 +11,13 @@ My favoriate part of is about its visulization of real data. Sometimes having th
 
 1. Virual clearance after anti-HIV drug treatment
 
-The goal is to test if HIV is under fast reproduction and mutation in human body, in contrast to what 'dormant period' would imply.
+The goal is to test if HIV is under fast reproduction and evolution in human body. AIDS patients typically experience a long latency period with low viral load that can take up to 10 years, before symptoms appear.
 
 <img src="/Physical-Models/Fig.0.3.png" alt="drawing" width="500"/>
 
-When antiretroviral drugs are used on patients, the balance of HIV production and clearance in their body will be disrupted, as virus concentration drops rapidly and exponentially on a semilog plot. However, this rapid fall doesn't start at the moment the drug is administered. The reasoning behind is that although drugs block HIV from infecting new T cells, the cells already infected can still release virus.
+When antiretroviral drugs are used on patients, the balance of HIV production and clearance in their body will be disrupted, as virus concentration drops rapidly on a semilog plot. It implies the immune system is clearing the virus at a tremendous rate. 
+
+However, this rapid fall doesn't start at the moment the drug is administered. The reasoning behind is that although drugs block HIV from infecting new T cells, the cells already infected can still release virus.
 
 
 
