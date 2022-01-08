@@ -3,8 +3,6 @@ layout: post
 title: << Physical Models of Living Systems >> by Philip Nelson
 ---
 
-<div markdown="1">
-
 This book introduces various classical mathematical models of biological systems. 
 
 It is a great book if you have already been exposed to biology, statistics and modeling.
@@ -37,6 +35,8 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub markdown="1">I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the one with smaller parameter. 
 
+Our hypothesis is that *k*<sub markdown="1">I</sub> >> *k*<sub markdown="1">V</sub>, so releasing of new virus quickly shuts down, and residual virus drop exponentially depends on *k*<sub markdown="1">V</sub>
+
 
 
 
@@ -50,4 +50,4 @@ We have a problem -> and some experimental data -> We make some assumptions abou
 
 We have a problem -> We have some data, labeled as 0/1 -> Neural network is ready to go -> ... -> Boom! We trained a model!  
 
-</div>
+
