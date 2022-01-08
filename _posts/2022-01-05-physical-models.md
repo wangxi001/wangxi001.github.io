@@ -2,7 +2,7 @@
 layout: post
 title: << Physical Models of Living Systems >> by Philip Nelson
 ---
-
+Sin^2 + Cos^2 = 1
 This book introduces various classical mathematical models of biological systems. 
 
 It is a great book if you have already been exposed to biology, statistics and modeling.
