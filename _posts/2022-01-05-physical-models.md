@@ -27,7 +27,7 @@ We could draw equations for change of infected cell quantity:
 
 as well as change of virus concentration:
 
-<img src="/Physical-Models/Eq.1.2.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Eq.1.2.png" alt="drawing" width="150"/>
 
 
 
