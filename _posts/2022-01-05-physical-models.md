@@ -51,13 +51,13 @@ To solve that, people noticed that during cell division, the cell's volume split
 
 Thus for variance of &Delta;*M* and fluorescent intensity y are given by:
 
-<img src="/Physical-Models/Binomial.1.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Binomial.1.png" alt="drawing" width="400"/>
 
-<img src="/Physical-Models/Binomial.2.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Binomial.2.png" alt="drawing" width="400"/>
 
 Fitting the last equation to different *y*<sub>0</sub> will allow estimation of &alpha;.
 
-<img src="/Physical-Models/Fig.4.2.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Fig.4.2.png" alt="drawing" width="400"/>
 
 /
 /
