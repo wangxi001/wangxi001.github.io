@@ -55,7 +55,7 @@ Thus for variance of &Delta;*M* and fluorescent intensity y are given by:
 
 <img src="/Physical-Models/Binomial.3.png" alt="drawing" width="200"/>
 
-Fitting the last equation to different *y*<sub>0</sub> will allow estimation of &alpha.
+Fitting the last equation to different *y*<sub>0</sub> will allow estimation of &alpha;.
 
 <img src="/Physical-Models/Fig.4.2.png" alt="drawing" width="200"/>
 
