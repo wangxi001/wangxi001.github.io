@@ -49,7 +49,7 @@ The fluorescent intensity of molecules depend on their number. However, it is di
 
 <img src="/Physical-Models/Binomial.1.png" alt="drawing" width="200"/>
 
-Thus for variance of \Delta
+Thus for variance of $\Delta$
 /
 /
 /
