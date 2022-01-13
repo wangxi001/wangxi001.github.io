@@ -33,9 +33,7 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 <img src="/Physical-Models/Eq.1.3.png" alt="drawing" width="200"/>
 
-{::options parse_block_html="true" /}
-
-<p>It shows that the virus concentration is determined by two exponential terms and their parameters <sub>I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the term with smaller parameter value. </p>
+It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub>I</sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the term with smaller parameter value.
 
 In the case *k*<sub markdown="1">I</sub> >> *k*<sub markdown="1">V</sub>, releasing of new virus from infected T cells quickly shuts off. Residual virus drop exponentially depends at rate *k*<sub markdown="1">V</sub>. 
 
