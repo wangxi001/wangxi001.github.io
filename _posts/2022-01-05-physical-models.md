@@ -49,7 +49,7 @@ The fluorescent intensity of molecules depend on their number. However, it is di
 
 To solve that, people noticed that during cell division, the cell's volume splits into nearly equal halves. In a daughter cell, the number of fluorescent molecules *M*<sub>1</sub> is binomial according to *P*<sub>binom</sub>(*M*<sub>1</sub> ;1/2, *M*<sub>0</sub>).
 
-Thus for variance of &Delta;*M* = *M*<sub>1</sub> - *M*<sub>2</sub> and fluorescent intensity *y* are given by:
+Thus the variance of &Delta;*M* = *M*<sub>1</sub> - *M*<sub>2</sub> and fluorescent intensity *y* = &alpha;*M* are given by:
 
 <img src="/Physical-Models/Binomial.1.png" alt="drawing" width="320"/>
 
