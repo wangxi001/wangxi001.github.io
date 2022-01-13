@@ -53,7 +53,7 @@ Thus for variance of &Delta;*M* = *M*<sub>1</sub> - *M*<sub>2</sub> and fluoresc
 
 <img src="/Physical-Models/Binomial.1.png" alt="drawing" width="320"/>
 
-<img src="/Physical-Models/Binomial.2.png" alt="drawing" width="280"/>
+<img src="/Physical-Models/Binomial.2.png" alt="drawing" width="290"/>
 
 Fitting the last equation to different *y*<sub>0</sub> will allow estimation of &alpha;.
 
