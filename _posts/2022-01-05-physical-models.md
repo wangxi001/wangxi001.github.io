@@ -45,15 +45,15 @@ By fitting data to the model, we can show 1/*k*<sub markdown="1">I</sub> is much
   
 ## 2. Counting fluorescent molecules in a cell
 
-The fluorescent intensity of molecules depend on their number. However, it is difficult to find the normalization constant &alpha; for this proportional relationship. To solve that, people noticed that during cell division, the cell's volume splits into nearly equal halves. The number of fluorescent molecules *M*<sub>1</sub> is binomial according to *P*<sub>binom</sub>(*M*<sub>1</sub>;1/2, *M*<sub>0</sub>).
+The fluorescent intensity of molecules depend on their number. However, it is difficult to find the normalization constant &alpha; for this proportional relationship. 
 
-<img src="/Physical-Models/Binomial.1.png" alt="drawing" width="200"/>
+To solve that, people noticed that during cell division, the cell's volume splits into nearly equal halves. The number of fluorescent molecules *M*<sub>1</sub> is binomial according to *P*<sub>binom</sub>(*M*<sub>1</sub> ;1/2, *M*<sub>0</sub>).
 
 Thus for variance of &Delta;*M* and fluorescent intensity y are given by:
 
-<img src="/Physical-Models/Binomial.2.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Binomial.1.png" alt="drawing" width="200"/>
 
-<img src="/Physical-Models/Binomial.3.png" alt="drawing" width="200"/>
+<img src="/Physical-Models/Binomial.2.png" alt="drawing" width="200"/>
 
 Fitting the last equation to different *y*<sub>0</sub> will allow estimation of &alpha;.
 
