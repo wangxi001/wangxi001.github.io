@@ -3,8 +3,6 @@ layout: post
 title: << Physical Models of Living Systems >> by Philip Nelson
 ---
 
-<div>
-
 
 This book introduces various classical mathematical models of biological systems. 
 
@@ -45,7 +43,9 @@ In the other case *k*<sub markdown="1">V</sub> >> *k*<sub markdown="1">I</sub>, 
 By fitting data to the model, we can show 1/*k*<sub markdown="1">I</sub> is much smaller than 10 years. We can further show that the infection rate of virus is so fast that make is possible for the population of virus to carry every possible single nucleotide mutation at the same time. It explains why HIV can be resistant to any single drug, and motivate the treatment of drug combinations.
 
   
-## 2. Virual clearance after anti-HIV drug treatment
+## 2. Counting fluorescent molecules in a cell
+
+The fluorescent intensity of molecules depend on their number. However, it is difficult to find the normalization constant for this proportional relationship.  
   
 
 /
@@ -62,4 +62,4 @@ We have a problem -> and some experimental data -> We make some assumptions abou
 
 We have a problem -> We have some data, labeled as 0/1 -> Neural network is ready to go -> ... -> Boom! We trained a model!  
 
-</div>
+
