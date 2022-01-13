@@ -59,6 +59,9 @@ Fitting the last equation to different *y*<sub>0</sub> will allow estimation of 
 
 <img src="/Physical-Models/Fig.4.2.png" alt="drawing" width="400"/>
 
+## 3. Counting fluorescent molecules in a cell
+
+
 /
 /
 /
