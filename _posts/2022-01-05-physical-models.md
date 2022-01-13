@@ -47,7 +47,7 @@ By fitting data to the model, we can show 1/*k*<sub markdown="1">I</sub> is much
 
 The fluorescent intensity of molecules depend on their number. However, it is difficult to find the normalization constant &alpha; for this proportional relationship. 
 
-To solve that, people noticed that during cell division, the cell's volume splits into nearly equal halves. The number of fluorescent molecules *M*<sub>1</sub> is binomial according to *P*<sub>binom</sub>(*M*<sub>1</sub> ;1/2, *M*<sub>0</sub>).
+To solve that, people noticed that during cell division, the cell's volume splits into nearly equal halves. In a daughter cell, the number of fluorescent molecules *M*<sub>1</sub> is binomial according to *P*<sub>binom</sub>(*M*<sub>1</sub> ;1/2, *M*<sub>0</sub>).
 
 Thus for variance of &Delta;*M* = *M*<sub>1</sub> - *M*<sub>2</sub> and fluorescent intensity *y* are given by:
 
