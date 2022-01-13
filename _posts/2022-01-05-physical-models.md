@@ -38,7 +38,7 @@ Replacing *N*<sub>I</sub> in the second equation give us:
 
 It shows that the virus concentration is determined by two exponential terms and their parameters *k*<sub> I </sub>, *k*<sub>V</sub>. Long time behavior of the equation will be dominated by the term with smaller parameter value.
 
-In the case *k*<sub markdown="1">I</sub> >> *k*<sub markdown="1">V</sub>, releasing of new virus from infected T cells quickly shuts off. Residual virus drop exponentially depends at rate *k*<sub markdown="1">V</sub>. 
+In the case *k*<sub markdown="1"> I </sub> >> *k*<sub markdown="1">V</sub>, releasing of new virus from infected T cells quickly shuts off. Residual virus drop exponentially depends at rate *k*<sub markdown="1">V</sub>. 
 
 In the other case *k*<sub markdown="1">V</sub> >> *k*<sub markdown="1">I</sub>, exisiting virus are quickly cleared. The clearance rate later is controlled by *k*<sub markdown="1">I</sub>.
 
