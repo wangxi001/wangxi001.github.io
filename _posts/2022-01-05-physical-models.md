@@ -9,9 +9,9 @@ title: << Physical Models of Living Systems >> by Philip Nelson
 
 </div>
 
-<div markdown="1">
+<div>
 
-k
+*k*
 
 </div>
 
