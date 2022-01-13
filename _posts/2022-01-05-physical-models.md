@@ -5,15 +5,8 @@ title: << Physical Models of Living Systems >> by Philip Nelson
 
 <div markdown="1">
 
-*k*
 
-</div>
 
-<div>
-
-*k*
-
-</div>
 
 This book introduces various classical mathematical models of biological systems. 
 
@@ -68,4 +61,4 @@ We have a problem -> and some experimental data -> We make some assumptions abou
 
 We have a problem -> We have some data, labeled as 0/1 -> Neural network is ready to go -> ... -> Boom! We trained a model!  
 
-
+</div>
