@@ -51,7 +51,7 @@ To solve that, people noticed that during cell division, the cell's volume split
 
 Thus for variance of &Delta;*M* = *M*<sub>1</sub> - *M*<sub>2</sub> and fluorescent intensity *y* are given by:
 
-<img src="/Physical-Models/Binomial.1.png" alt="drawing" width="300"/>
+<img src="/Physical-Models/Binomial.1.png" alt="drawing" width="320"/>
 
 <img src="/Physical-Models/Binomial.2.png" alt="drawing" width="300"/>
 
