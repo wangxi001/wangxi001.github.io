@@ -4,13 +4,15 @@ title: << Physical Models of Living Systems >> by Philip Nelson
 ---
 
 <div markdown="1">
-This is a list:
 
 *k*
 
-- Item 1
-- Item 2
-- Item 3
+</div>
+
+<div markdown="1">
+
+k
+
 </div>
 
 This book introduces various classical mathematical models of biological systems. 
