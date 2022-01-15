@@ -59,8 +59,13 @@ Fitting the last equation to different *y*<sub>0</sub> will allow estimation of 
 
 <img src="/Physical-Models/Fig.4.2.png" alt="drawing" width="400"/>
 
-## 3. Bacteria genetics: Lamarckian vs Darwian
+## 3. Bacteria genetics: Lamarckian vs Darwian inheritance
 
+Until the turn of 20th century, people were still actively debating about the nature of inheritance. One pole held that heritable changes occur spontaneously in an organism, and that evolution is the result of enviromental selection applied to such mutation (Darwian). The other extreme held that organisms activly create heritable changes in response to enviromental stress (Lamarckian). 
+
+**S.Luria** and **M.Delbruck** set out to explore these two hypotheses before DNA was determined as genetic material. They worked on bacterial resistance. They created a large collection of separate culture of *E.Coli*. After proliferation with phage attack, they count the number of survivors in each culture.
+
+**H1**
 
 /
 /
