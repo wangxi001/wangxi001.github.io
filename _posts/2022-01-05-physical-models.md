@@ -82,7 +82,7 @@ Plotting simluation result of ***H2*** on semilog form confirms it's more consis
  
 The mutation rate can also be estimated from the simulation to be on the order of 10<sup>-8</sup>.
 
-## Single partical reconstruction in cryo-electron microscopy
+## 4. Single partical reconstruction in cryo-electron microscopy
  
 /
 /
