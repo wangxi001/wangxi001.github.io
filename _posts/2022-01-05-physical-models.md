@@ -69,7 +69,7 @@ Until the turn of 20th century, people were still actively debating about the na
 
 <img src="/Physical-Models/Fig.4.6.png" alt="drawing" width="400"/>
 
-However, the result did not look like poisson because it had some 'outliers' at large m. Sometimes it is described as jackpot distribution.
+However, the result did not look like poisson because it had some 'outliers' at large m. It is also named as jackpot distribution.
 
 <img src="/Physical-Models/Fig.4.7.png" alt="drawing" width="400"/>
 
@@ -77,8 +77,10 @@ However, the result did not look like poisson because it had some 'outliers' at 
 
 <img src="/Physical-Models/Fig.4.8.png" alt="drawing" width="400"/>
 
-Plotting simluation result of ***H2*** on semilog form confirms it's more consistent than poisson model. It more properly represents randomness in inheritance. Another way to see the failure of ***H1*** is to note that experimental data have sample mean = 30 but
+Plotting simluation result of ***H2*** on semilog form confirms it's more consistent than poisson model. It properly represents randomness in inheritance. Another way to see the failure of ***H1*** is to note that experimental data have sample mean = 30 but
  variance = 6000.
+ 
+The mutation rate can also be estimated from the simulation to be on the order of 10<sup>-8</sup>
  
 /
 /
