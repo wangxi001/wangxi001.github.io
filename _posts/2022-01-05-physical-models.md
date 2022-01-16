@@ -65,17 +65,17 @@ Until the turn of 20th century, people were still actively debating about the na
 
 **S.Luria** and **M.Delbruck** set out to explore these two hypotheses before DNA was determined as genetic material. They worked on bacterial resistance. They created a large collection of separate culture of *E.Coli*. After proliferating for a while, bacterias were challenged by a virus called phage. The scientists then counted the number of survivors in each culture.
 
+<img src="/Physical-Models/Fig.4.7.png" alt="drawing" width="500"/>
+
 ***H1***, the Lamarckian hypothesis argues that whether a bacteria become resistant is a random decision independent of others, given that mutations only arise at phage challenge stage. Obeserving m survivors should distributes as a Poisson random variable. 
 
-<img src="/Physical-Models/Fig.4.6.png" alt="drawing" width="350"/>
+<img src="/Physical-Models/Fig.4.6.png" alt="drawing" width="250"/>
 
 However, the result did not look like poisson because it had some 'outliers' at large m. It is also named as jackpot distribution.
 
-<img src="/Physical-Models/Fig.4.7.png" alt="drawing" width="500"/>
-
 ***H2***, the Darwian hypothesis, implies early mutants will be amplified during proliferation, as mutations are spontaneous.
 
-<img src="/Physical-Models/Fig.4.8.png" alt="drawing" width="400"/>
+<img src="/Physical-Models/Fig.4.8.png" alt="drawing" width="450"/>
 
 Plotting simluation result of ***H2*** on semilog form confirms it's more consistent than poisson model. It properly represents randomness in inheritance. Another way to see the failure of ***H1*** is to note that experimental data have sample mean = 30 but
  variance = 6000.
