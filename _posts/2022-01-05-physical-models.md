@@ -63,11 +63,23 @@ Fitting the last equation to different *y*<sub>0</sub> will allow estimation of 
 
 Until the turn of 20th century, people were still actively debating about the nature of inheritance. One pole held that heritable changes occur spontaneously in an organism, and that evolution is the result of enviromental selection applied to such mutation (Darwian). The other extreme held that organisms activly create heritable changes in response to enviromental stress (Lamarckian). 
 
-**S.Luria** and **M.Delbruck** set out to explore these two hypotheses before DNA was determined as genetic material. They worked on bacterial resistance. They created a large collection of separate culture of *E.Coli*. After proliferation with phage attack, they count the number of survivors in each culture.
+**S.Luria** and **M.Delbruck** set out to explore these two hypotheses before DNA was determined as genetic material. They worked on bacterial resistance. They created a large collection of separate culture of *E.Coli*. After proliferating for a while, bacterias were challenged by a virus called phage. The scientists then counted the number of survivors in each culture.
 
-***H1***, the Lamarckian hypothesis argues that whether a bacteria become resistant is a random decision independent of others. Obeserving m survivors is distributes as a Poisson random variable. 
+***H1***, the Lamarckian hypothesis argues that whether a bacteria become resistant is a random decision independent of others, given that mutations only arise at phage challenge stage. Obeserving m survivors should distributes as a Poisson random variable. 
 
-***H2***, the Darwian hypothesis
+<img src="/Physical-Models/Fig.4.6.png" alt="drawing" width="400"/>
+
+However, the result did not look like poisson because it had some 'outliers' at large m. Sometimes it is described as jackpot distribution.
+
+<img src="/Physical-Models/Fig.4.7.png" alt="drawing" width="400"/>
+
+***H2***, the Darwian hypothesis, implies early mutants will be amplified during proliferation, as mutations are spontaneous.
+
+<img src="/Physical-Models/Fig.4.8.png" alt="drawing" width="400"/>
+
+Plotting simluation result of ***H2*** on semilog form confirms it's more consistent than poisson model. It more properly represents randomness in inheritance. Another way to see the failure of ***H1*** is to note that experimental data have sample mean = 30 but
+ variance = 6000.
+ 
 /
 /
 /
