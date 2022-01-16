@@ -80,7 +80,9 @@ However, the result did not look like poisson because it had some 'outliers' at 
 Plotting simluation result of ***H2*** on semilog form confirms it's more consistent than poisson model. It properly represents randomness in inheritance. Another way to see the failure of ***H1*** is to note that experimental data have sample mean = 30 but
  variance = 6000.
  
-The mutation rate can also be estimated from the simulation to be on the order of 10<sup>-8</sup>
+The mutation rate can also be estimated from the simulation to be on the order of 10<sup>-8</sup>.
+
+## Single partical reconstruction in cryo-electron microscopy
  
 /
 /
